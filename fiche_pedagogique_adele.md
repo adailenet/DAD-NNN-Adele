@@ -64,7 +64,7 @@ ____
 
 #### Contribution à un projet d'un autre étudiant
 
-- blablabla
+- échanges avec Arnaud autour de références (L'Association etc...)
 
 #### Contribution aux ressources
 
@@ -89,5 +89,6 @@ ____
 - [ ]  articuler mon sujet de recherche 
 
 #### Idées :
+
 
 
