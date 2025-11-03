@@ -83,12 +83,13 @@ ____
 #### To-do list :
 
 - [x]  création du fichier pédagogique et du repo github
-- [X]  recherche des premières références
-  - *Le livre infini*, Albertine Meunier  https://albertinemeunier.net/livre-infini    - *The House of Dust*, Alison Knowles, 1967
+- [X]  recherche des premières références  
+  - *Le livre infini*, Albertine Meunier  https://albertinemeunier.net/livre-infini
+  - *The House of Dust*, Alison Knowles, 1967
   - *Atlas critique d'internet*, Louise Drulhe, 2015
-- [X]  articuler mon sujet de recherche
+- [X]  articuler mon sujet de recherche  
   *Mon sujet de recherche va circuler autour du geste de la cueillette et notamment de la cueillette numérique*
-- [ ]  commencer une feuille de route du projet
+- [ ]  commencer une feuille de route du projet  
   *La feuille de route est un outil que j'utilise régulièrement pour mes projets, elle me permet de réunir tous les éléments techniques, contextuels et théoriques dans un même fichier (pdf ou md). Elle ressemble à une maquette.*
 
 #### Idées :
@@ -103,6 +104,7 @@ Mes premières idées se sont tournées vers la production d'un livre (ou objet 
 - [ ]  Poursuivre le travail de la feuille de route 
 
 #### Idées : 
+
 
 
 
