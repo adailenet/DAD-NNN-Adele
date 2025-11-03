@@ -12,7 +12,7 @@
 
 #### Présentation personnelle
 
-Je suis particulièrement intéressée par le design éditorial, la production de support de médiation et d'articles plus théorique. Je me dirige assez naturellement vers un travail de graphisme (en maison d'édition par exemple) ou même de muséographie (j'aime particulièrement l'Histoire des arts). La découverte du monde numérique en DAD m'invite également à m'intéresser au monde du webdesign mais je ne pense pas en faire ma carrière. Je suis intéressée par la transmission et être professeure me plairait également. Bref, c'est flou.
+Je suis particulièrement intéressée par le design éditorial, la production de support de médiation et d'articles plus théorique. Je me dirige assez naturellement vers un travail de graphisme (en maison d'édition par exemple) ou même de muséographie (j'aime particulièrement l'Histoire des arts). La découverte du monde numérique en DAD m'invite également à m'intéresser au monde du webdesign mais je ne pense pas en faire ma carrière. Tous les outils numériques que j'ai pu prendre en main au cours de ces deux dernières années sont pour autant des atouts pour la suite de mon parcours. Je suis intéressée par la transmission et être professeure me plairait également. Bref, c'est flou.
 
 #### Compétences
 
@@ -104,6 +104,7 @@ Mes premières idées se sont tournées vers la production d'un livre (ou objet 
 - [ ]  Poursuivre le travail de la feuille de route 
 
 #### Idées : 
+
 
 
 
