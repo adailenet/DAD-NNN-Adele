@@ -87,6 +87,8 @@ ____
   - *Le livre infini*, Albertine Meunier  https://albertinemeunier.net/livre-infini
   - *The House of Dust*, Alison Knowles, 1967 https://www.cnap.fr/house-dust-alison-knowles 
   - *Atlas critique d'internet*, Louise Drulhe, 2015 https://louisedrulhe.fr/internet-atlas/
+     
+  - *Pour une écologie de l'Attention*, Yves Citton, https://www.yvescitton.net/wp-content/uploads/2020/08/Citton-EcologieAttentionPolitiquesDistractions-Dugnat-2018.pdf 
 - [X]  articuler mon sujet de recherche  
   *Mon sujet de recherche va circuler autour du geste de la cueillette et notamment de la cueillette numérique*
 - [ ]  commencer une feuille de route du projet  
@@ -104,6 +106,7 @@ Mes premières idées se sont tournées vers la production d'un livre (ou objet 
 - [ ]  Poursuivre le travail de la feuille de route 
 
 #### Idées : 
+
 
 
 
