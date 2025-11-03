@@ -12,21 +12,21 @@
 
 #### Présentation personnelle
 
-muséographie / graphisme / maison d'édition / 
+Je suis particulièrement intéressée par le design éditorial, la production de support de médiation et d'articles plus théorique. Je me dirige assez naturellement vers un travail de graphisme (en maison d'édition par exemple) ou même de muséographie (j'aime particulièrement l'Histoire des arts). La découverte du monde numérique en DAD m'invite également à m'intéresser au monde du webdesign mais je ne pense pas en faire ma carrière. Je suis intéressée par la transmission et être professeure me plairait également. Bref, c'est flou.
 
 #### Compétences
 
-- **Coding** : 12
+- **Coding** : 10 - *je pense être plutôt à l'aise avec les langages html et CSS mais le reste est compliqué pour moi pour l'instant.*
 
-- **Git & versionning** : 11
+- **Git & versionning** : 12 - *J'utilise de plus en plus GitHub est souhaite en faire un outil de travail, j'aime beaucoup*
 
-- **Intéractivité & rendu temps réel** : 9 
+- **Intéractivité & rendu temps réel** : 9 - *J'ai peu d'expérience là-dedans*
 
-- **Graphisme & design d'interface** : 15
+- **Graphisme & design d'interface** : 15 - *Je me considère à l'aise dans la création de projets graphiques en général mais il me manque encore beaucoup d'expérience et de connaissances*
 
-- **Installation & mise en espace** : 14
+- **Installation & mise en espace** : 14 - *J'aime mettre en espace mes travaux et je pense réussir à créer des installations claires et lisibles mais je ne sais pas faire de choses impressionnantes et je n'ose pas prendre tout l'espace (du sol au plafond)*
 
-- **Présentation & argumentation** : 13
+- **Présentation & argumentation** : 13 - *La théorie et l'argumentation de mes projets sont pour la plupart assez fournis mais je ne suis pas la plus à l'aise à l'oral, j'ai tendance à arrêter de respirer pendant mes présentations. Pour autant, je pense savoir me faire comprendre et répondre aux questions*
 
 ___
 
@@ -104,6 +104,7 @@ Mes premières idées se sont tournées vers la production d'un livre (ou objet 
 - [ ]  Poursuivre le travail de la feuille de route 
 
 #### Idées : 
+
 
 
 
