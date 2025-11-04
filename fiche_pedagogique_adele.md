@@ -115,13 +115,15 @@ Mes premières idées se sont tournées vers la production d'un livre (ou objet 
 
 #### Idées : 
 
-<img src="/SRC/schema_2.jpg" height="500">  
-Premier schéma du fonctionnement de mon outil de cueillette numérique : 
-- l'utilisateur est **acteur** de sa cueillette : il choisit les **mots** ou les **images** qu'il souhaite cueillir en séléctionnant avec sa souris.  
-- Ces collectes sont accompagnées de **méta-données** (données fantômes) : l'heure, la date et le chemin (url)  
-- le plug-in intéragit avec l'utilisateur : séléction des mots avec la souris puis exportation de la séléction vers le site web   
-- le site web incarne le rôle du "panier de cueillette", où l'on archive, ordonne et classe ce que l'on ramasse   
-- le site pourrait avoir un bouton "live" qui imprimerait en direct le site et sa cueillette  
+<img src="/SRC/schema_2.jpg" height="500"> 
+
+Premier schéma du fonctionnement de mon outil de cueillette numérique :  
+  - l'utilisateur est **acteur** de sa cueillette : il choisit les **mots** ou les **images** qu'il souhaite cueillir en séléctionnant avec sa souris.  
+  - Ces collectes sont accompagnées de **méta-données** (données fantômes) : l'heure, la date et le chemin (url)  
+  - le plug-in intéragit avec l'utilisateur : séléction des mots avec la souris puis exportation de la séléction vers le site web   
+  - le site web incarne le rôle du "panier de cueillette", où l'on archive, ordonne et classe ce que l'on ramasse   
+  - le site pourrait avoir un bouton "live" qui imprimerait en direct le site et sa cueillette  
+
 
 
 
