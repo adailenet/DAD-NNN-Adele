@@ -91,7 +91,7 @@ ____
   - *Pour une écologie de l'Attention*, Yves Citton, https://www.yvescitton.net/wp-content/uploads/2020/08/Citton-EcologieAttentionPolitiquesDistractions-Dugnat-2018.pdf 
 - [X]  articuler mon sujet de recherche  
   *Mon sujet de recherche va circuler autour du geste de la cueillette et notamment de la cueillette numérique*
-- [ ]  commencer une feuille de route du projet  
+- [X]  commencer une feuille de route du projet  
   *La feuille de route est un outil que j'utilise régulièrement pour mes projets, elle me permet de réunir tous les éléments techniques, contextuels et théoriques dans un même fichier (pdf ou md). Elle ressemble à une maquette.*
 
 #### Idées :
@@ -103,10 +103,16 @@ Mes premières idées se sont tournées vers la production d'un livre (ou objet 
 #### To-do list :
 
 - [ ]  Commencer le développement d'une interface de "rêve" sur papier & sur figma
-- [ ]  Poursuivre le travail de la feuille de route 
+- [ ]  Poursuivre le travail de la feuille de route
+- [X]  Recherche de réfs de site web
+  - *On the impulse to notate*, designé par Lydia Chodosh et développé par Donald Zhu https://notations.xyz/text
+  - *When we love*, Chia Amisola, https://whenwe.love/#updates
+
 
 #### Idées : 
 
+<img src="/SRC/schema_1.jpg" height="500">  
+Premier schéma du fonctionnement de mon outil de cueillette numérique 
 
 
 
