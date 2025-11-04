@@ -112,7 +112,9 @@ Mes premières idées se sont tournées vers la production d'un livre (ou objet 
 #### Idées : 
 
 <img src="/SRC/schema_1.jpg" height="500">  
-Premier schéma du fonctionnement de mon outil de cueillette numérique 
+Premier schéma du fonctionnement de mon outil de cueillette numérique  
+
+
 
 
 
