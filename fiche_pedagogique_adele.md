@@ -18,7 +18,7 @@ Je suis particulièrement intéressée par le design éditorial, la production d
 
 - **Coding** : 10 - *je pense être plutôt à l'aise avec les langages html et CSS mais le reste est compliqué pour moi pour l'instant.*
 
-- **Git & versionning** : 12 - *J'utilise de plus en plus GitHub est souhaite en faire un outil de travail, j'aime beaucoup*
+- **Git & versionning** : 12 - *J'utilise de plus en plus GitHub et souhaite en faire un outil de travail, j'aime beaucoup*
 
 - **Intéractivité & rendu temps réel** : 9 - *J'ai peu d'expérience là-dedans*
 
@@ -122,7 +122,16 @@ Premier schéma du fonctionnement de mon outil de cueillette numérique :
   - Ces collectes sont accompagnées de **méta-données** (données fantômes) : l'heure, la date et le chemin (url)  
   - le plug-in intéragit avec l'utilisateur : séléction des mots avec la souris puis exportation de la séléction vers le site web   
   - le site web incarne le rôle du "panier de cueillette", où l'on archive, ordonne et classe ce que l'on ramasse   
-  - le site pourrait avoir un bouton "live" qui imprimerait en direct le site et sa cueillette  
+  - le site pourrait avoir un bouton "live" qui imprimerait en direct le site et sa cueillette
+
+### vendredi 7 novembre 2025 
+
+#### To-do list : 
+
+- [ ] blablabla 
+
+#### Idées : 
+
 
 
 
