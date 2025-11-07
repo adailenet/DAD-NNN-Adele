@@ -132,9 +132,14 @@ Premier schéma du fonctionnement de mon outil de cueillette numérique :
 - [ ] Création d'un planning de travail pour les jours restants
   - voir le programme [ici](programme.md) 
 - [ ] Premiers tests de plug-in et de site avec Chat Gpt 
-- [ ] Recherches de Références
 
 #### Idées : 
+
+<img src="/SRC/capture_1/jpg" height="500">
+<img src="/SRC/capture/jpg" height="500">
+
+Premiers tests de plug-in, premières pistes de langages et techniques avec chat gpt, découverte des ressources autour des extensions de [chrome](https://developer.chrome.com/docs/extensions?hl=fr)... 
+
 
 
 
