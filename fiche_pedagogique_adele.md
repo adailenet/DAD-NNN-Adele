@@ -130,11 +130,12 @@ Premier schéma du fonctionnement de mon outil de cueillette numérique :
 #### To-do list : 
 
 - [ ] Création d'un planning de travail pour les jours restants
-- [ ] Premiers tests de plug-in et de site avec Chat Gpt
+  - voir le programme [ici](Programme - Nouvelles narrations numériques.md) 
+- [ ] Premiers tests de plug-in et de site avec Chat Gpt 
 - [ ] Recherches de Références
-- [ ] Ecriture de ma note d'intention de projet 
 
 #### Idées : 
+
 
 
 
