@@ -140,6 +140,8 @@ Premier schéma du fonctionnement de mon outil de cueillette numérique :
 
 Premiers tests de plug-in, premières pistes de langages et techniques avec chat gpt, découverte des ressources autour des extensions de [chrome](https://developer.chrome.com/docs/extensions?hl=fr)... 
 
+<img src="SRC/notes_1.jpg" height="500">
+<img src="SRC/notes_2.jpg" height="500">
 
 
 
