@@ -129,9 +129,9 @@ Premier schéma du fonctionnement de mon outil de cueillette numérique :
 
 #### To-do list : 
 
-- [ ] Création d'un planning de travail pour les jours restants
+- [X] Création d'un planning de travail pour les jours restants
   - voir le programme [ici](programme.md) 
-- [ ] Premiers tests de plug-in et de site avec Chat Gpt 
+- [X] Premiers tests de plug-in et de site avec Chat Gpt 
 
 #### Idées : 
 
