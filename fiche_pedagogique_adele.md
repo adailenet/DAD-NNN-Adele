@@ -65,6 +65,7 @@ ____
 #### Contribution à un projet d'un autre étudiant
 
 - échanges avec Arnaud autour de références (L'Association etc...)
+- j'ai parlé de Colossal Cave de Ralph Witt à Suyeon par rapport au labyrinthe 
 
 #### Contribution aux ressources
 
@@ -134,6 +135,7 @@ Premier schéma du fonctionnement de mon outil de cueillette numérique :
 - [ ] Ecriture de ma note d'intention de projet 
 
 #### Idées : 
+
 
 
 
