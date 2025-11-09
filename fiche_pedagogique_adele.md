@@ -36,27 +36,30 @@ ___
 
 #### Sujet :
 
-- **Titre** :
+- **Titre** : Archive d'une cueillette numérique 
 
-- **Description** : 
+- **Description** : L'outil fonctionne à travers deux formes; une extension web (la cueillette) et un site web (le panier). L'utilisateur peut activer l'extension dans son navigateur chrome afin de récupérer des fragments de web(textes, images...) avec le clic droit de sa souris. Ces fragments sont transférés vers le site internet pour les archiver. L'utilisateur peut les organiser comme il le souhaite ou les laisser flotter aléatoirement dans l'espace de la page. Une option "live" permet d'imprimer en temps réel l'archive de la cueillette de l'utilisateur. 
 
 #### Thématiques de recherche :
 
-- **La thématique que je souhaite explorer** : 
+- **La thématique que je souhaite explorer** : la création d'outil numérique et l'archive
 
-- **pourquoi ?** : 
+- **pourquoi ?** : La création d'outil m'a vite intéressé, notamment après la découverte des projets [those.tools](https://www.those.tools/) impulsés par la Villa Hermosa. 
 
 #### Outils & techniques :
 
-- **Outils que je veux utiliser** : 
+- **Outils que je veux utiliser** : Html, Css, javascript, manifest.json, 
 
-- **Outils que je veux maîtriser** : 
+- **Outils que je veux maîtriser** : Extensions web (manifest.json), javascript  
 
 #### Références Artistiques :
 
-- **Argumentation théorique** : 
+- **Argumentation théorique** : Nous vivons dans un flot d'informations et d'images continu qui nous "assomment". Selon Yves Citton notre attention devient la nouvelle ressource, si bien qu'il nous est compliqué de naviguer dans notre environnement numérique. Dans ce contexte, le geste de la cueillette devient un outil de résistance ; il s'oppose à la rapidité du "swipe" et nous invite a repenser nos rapports au web. Chercher, identifier, cueillir, ranger, classer, observer, cet outil transpose la méthodologie de la cueillette pour nous aider à recentrer notre attention là où on le souhaite vraiment. 
 
 - **Références** : 
+  - Yves Citton, *Pour une écologie de l'attention*, 2014 
+  - Alison Knowles, *House of Dust*, 1967 
+  - Lydia Chodosh et Donald Zhu, *On the impulse to notate*, 2024
 
 ____
 
@@ -85,11 +88,11 @@ ____
 
 - [x]  création du fichier pédagogique et du repo github
 - [X]  recherche des premières références  
-  - *Le livre infini*, Albertine Meunier  https://albertinemeunier.net/livre-infini
-  - *The House of Dust*, Alison Knowles, 1967 https://www.cnap.fr/house-dust-alison-knowles 
-  - *Atlas critique d'internet*, Louise Drulhe, 2015 https://louisedrulhe.fr/internet-atlas/
+  - [*Le livre infini*](https://albertinemeunier.net/livre-infini), Albertine Meunier  
+  - [*The House of Dust*](https://www.cnap.fr/house-dust-alison-knowles), Alison Knowles, 1967  
+  - [*Atlas critique d'internet*](https://louisedrulhe.fr/internet-atlas/), Louise Drulhe, 2015 
      
-  - *Pour une écologie de l'Attention*, Yves Citton, https://www.yvescitton.net/wp-content/uploads/2020/08/Citton-EcologieAttentionPolitiquesDistractions-Dugnat-2018.pdf 
+  - [*Pour une écologie de l'Attention*](https://www.yvescitton.net/wp-content/uploads/2020/08/Citton-EcologieAttentionPolitiquesDistractions-Dugnat-2018.pdf), Yves Citton,  
 - [X]  articuler mon sujet de recherche  
   *Mon sujet de recherche va circuler autour du geste de la cueillette et notamment de la cueillette numérique*
 - [X]  commencer une feuille de route du projet  
@@ -104,11 +107,11 @@ Mes premières idées se sont tournées vers la production d'un livre (ou objet 
 #### To-do list :
 
 - [X]  Commencer le développement d'une interface sur papier & sur figma
-  - première maquette rapide https://www.figma.com/proto/KRvKt46CpvPyjllykimAIf/Archive-d-une-cueillette-num%C3%A9rique?node-id=1-2&p=f&t=XatMt3URCoCIEIk1-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1  
+  - première [maquette](https://www.figma.com/proto/KRvKt46CpvPyjllykimAIf/Archive-d-une-cueillette-num%C3%A9rique?node-id=1-2&p=f&t=XatMt3URCoCIEIk1-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1) rapide   
 - [X]  Réfléchir à la dynamique du plug-in + du site web (voir schéma)
 - [X]  Recherche de réfs de site web
-  - *On the impulse to notate*, designé par Lydia Chodosh et développé par Donald Zhu https://notations.xyz/text
-  - *When we love*, Chia Amisola, https://whenwe.love/#updates
+  - [*On the impulse to notate*](https://notations.xyz/text), designé par Lydia Chodosh et développé par Donald Zhu 
+  - [*When we love*](https://whenwe.love/#updates), Chia Amisola,
 - [X] Références en tous genres
   - la pratique du *digital garden*
   - la pratique du *perma computing*
@@ -132,13 +135,14 @@ Premier schéma du fonctionnement de mon outil de cueillette numérique :
 - [X] Création d'un planning de travail pour les jours restants
   - voir le programme [ici](programme.md) 
 - [X] Premiers tests de plug-in et de site avec Chat Gpt 
+- [X] Réflexions autour des techniques & langages pour la création du projet 
 
 #### Idées : 
 
 <img src="/SRC/capture_1.jpg" height="500">
 <img src="/SRC/capture.jpg" height="500">
 
-Premiers tests de plug-in, premières pistes de langages et techniques avec chat gpt, découverte des ressources autour des extensions de [chrome](https://developer.chrome.com/docs/extensions?hl=fr)... 
+Premiers tests de plug-in, premières pistes de langages et techniques avec chat gpt + recherches, découverte des ressources autour des extensions de [chrome](https://developer.chrome.com/docs/extensions?hl=fr)... 
 
 <img src="SRC/notes_1.jpg" height="500">
 <img src="SRC/notes_2.jpg" height="500">
