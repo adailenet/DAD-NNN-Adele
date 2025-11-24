@@ -147,7 +147,14 @@ Premiers tests de plug-in, premières pistes de langages et techniques avec chat
 <img src="SRC/notes_1.jpg" height="500">
 <img src="SRC/notes_2.jpg" height="500">
 
+### Lundi 24 novembre 2025 
 
+#### To-do list : 
+- [ ] Poursuivre maquette plug in + webpage
+- [ ] Recherches autour du plug-in
+- [X] Refs pour le plug-in : 
+  - [*Tango*](https://chromewebstore.google.com/detail/tango-%E2%80%93-document-and-auto/lggdbpblkekjjbobadliahffoaobaknh?hl=en&authuser=1&pli=1) 
+ 
 
 
 
