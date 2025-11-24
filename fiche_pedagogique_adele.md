@@ -150,11 +150,16 @@ Premiers tests de plug-in, premières pistes de langages et techniques avec chat
 ### Lundi 24 novembre 2025 
 
 #### To-do list : 
+
 - [ ] Poursuivre maquette plug in + webpage
 - [ ] Recherches autour du plug-in
-- [X] Refs pour le plug-in : 
+- [X] Refs / Ressources intéressantes pour le plug-in : 
   - [*Tango*](https://chromewebstore.google.com/detail/tango-%E2%80%93-document-and-auto/lggdbpblkekjjbobadliahffoaobaknh?hl=en&authuser=1&pli=1) 
- 
+  - [*20 Understanding Chrome Extensions Side Panel*](https://m2kdevelopments.medium.com/20-understanding-chrome-extensions-side-panel-334ef5de7cfd), Medium 
+
+#### Idées : 
+
+J'ai exploré et essayé de comprendre les bases d'un plug-in à travers l'[Extension Chrome - Context Menus Sample](https://github.com/RobinMorettiBookmarkText-chromeExtension). Cela sera la base du projet 
 
 
 
