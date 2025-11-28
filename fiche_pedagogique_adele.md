@@ -148,13 +148,13 @@ Premiers tests de plug-in, premières pistes de langages et techniques avec chat
 <img src="SRC/notes_1.jpg" height="500">
 <img src="SRC/notes_2.jpg" height="500">
 
-### Lundi 24 novembre 2025 
+### Lundi 24 novembre 2025 & mardi 25 novembre 2025
 
 #### To-do list : 
 
-- [ ] Poursuivre maquette plug in + webpage
-- [ ] Recherches autour du plug-in
-- [X] Refs / Ressources intéressantes pour le plug-in : 
+- [X] Poursuivre maquette plug in + webpage
+- [X] Finir de designer le plug-in (le clic droit & la page info)
+- [X] Refs / Ressources intéressantes pour le plug-in (side panel ?) : 
   - [*Tango*](https://chromewebstore.google.com/detail/tango-%E2%80%93-document-and-auto/lggdbpblkekjjbobadliahffoaobaknh?hl=en&authuser=1&pli=1) 
   - [*20 Understanding Chrome Extensions Side Panel*](https://m2kdevelopments.medium.com/20-understanding-chrome-extensions-side-panel-334ef5de7cfd), Medium 
 
@@ -162,6 +162,9 @@ Premiers tests de plug-in, premières pistes de langages et techniques avec chat
 
 <img src="SRC/notes_3.jpg" height="500">
 J'ai exploré et essayé de comprendre les bases d'un plug-in à travers cette template :  [*Context Menus Sample*](https://github.com/RobinMorettiBookmarkText-chromeExtension). Cela sera la base du projet 
+<img src="SRC/moodboard.png" height="500">
+<img src="SRC/popup.png" height="500">
+<img src="SRC/handmodal.png" height="500">
 
 
 
