@@ -68,6 +68,7 @@ ____
 #### Contribution à un projet d'un autre étudiant
 
 - échanges avec Arnaud autour de références (L'Association etc...)
+<img src="/SRC/refs.jpg" height="500">
 - j'ai parlé de Colossal Cave de Ralph Witt à Suyeon par rapport au labyrinthe 
 
 #### Contribution aux ressources
@@ -159,7 +160,9 @@ Premiers tests de plug-in, premières pistes de langages et techniques avec chat
 
 #### Idées : 
 
+<img src="SRC/notes_3.jpg" height="500">
 J'ai exploré et essayé de comprendre les bases d'un plug-in à travers l'[Extension Chrome - Context Menus Sample](https://github.com/RobinMorettiBookmarkText-chromeExtension). Cela sera la base du projet 
+
 
 
 
