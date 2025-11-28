@@ -166,6 +166,17 @@ J'ai exploré et essayé de comprendre les bases d'un plug-in à travers cette t
 <img src="SRC/popup.png" height="500">
 <img src="SRC/handmodal.png" height="500">
 
+### Vendredi 28 novembre 2025 
+
+#### To-do list : 
+
+- [X] Design du site web panier 
+- [*] écriture du JS pour le panneau de la page web
+
+<video src="SRC/video.mp4" height="500">
+
+ 
+
 
 
 
