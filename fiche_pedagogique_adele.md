@@ -175,7 +175,7 @@ J'ai exploré et essayé de comprendre les bases d'un plug-in à travers cette t
 - [X] Design du site web panier 
 - [*] écriture du JS pour le panneau de la page web
 
-[screenshot.video](src/video.mp4)
+[video_screenshot](SRC/video.mp4)
 
 
  
