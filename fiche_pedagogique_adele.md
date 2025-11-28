@@ -161,7 +161,7 @@ Premiers tests de plug-in, premières pistes de langages et techniques avec chat
 #### Idées : 
 
 <img src="SRC/notes_3.jpg" height="500">
-J'ai exploré et essayé de comprendre les bases d'un plug-in à travers l'[Extension Chrome - Context Menus Sample](https://github.com/RobinMorettiBookmarkText-chromeExtension). Cela sera la base du projet 
+J'ai exploré et essayé de comprendre les bases d'un plug-in à travers cette template :  [*Context Menus Sample*](https://github.com/RobinMorettiBookmarkText-chromeExtension). Cela sera la base du projet 
 
 
 
