@@ -32,19 +32,19 @@ ___
 
 ## II) Projet(s) & Thématique de recherche
 
-# PROJET 1
+# PROJET 
 
 #### Sujet :
 
-- **Titre** : Archive d'une cueillette numérique 
+- **Titre** : PANIER - Archive d'une cueillette numérique 
 
-- **Description** : L'outil fonctionne à travers deux formes; une extension web (la cueillette) et un site web (le panier). L'utilisateur peut activer l'extension dans son navigateur chrome afin de récupérer des fragments de web(textes, images...) avec le clic droit de sa souris. Ces fragments sont transférés vers le site internet pour les archiver. L'utilisateur peut les organiser comme il le souhaite ou les laisser flotter aléatoirement dans l'espace de la page. Une option "live" permet d'imprimer en temps réel l'archive de la cueillette de l'utilisateur. 
+- **Description** : L'outil fonctionne à travers deux formes; une extension web (la cueillette) et un site web (le panier). L'utilisateur peut activer l'extension dans son navigateur chrome afin de récupérer des fragments de web(textes, paragraphes) avec le clic droit de sa souris. Ces fragments sont transférés vers le site internet pour les archiver. L'utilisateur peut les organiser comme il le souhaite ou les laisser flotter aléatoirement dans l'espace de la page.  
 
 #### Thématiques de recherche :
 
-- **La thématique que je souhaite explorer** : la création d'outil numérique et l'archive
+- **La thématique que je souhaite explorer** : la création d'outil numérique, l'archive
 
-- **pourquoi ?** : La création d'outil m'a vite intéressé, notamment après la découverte des projets [those.tools](https://www.those.tools/) impulsés par la Villa Hermosa. 
+- **pourquoi ?** : La création d'outil m'a vite intéressé, notamment après la découverte des projets [those.tools](https://www.those.tools/) impulsés par la Villa Hermosa. Ce projet va aider à supporter ma pratique artistique. 
 
 #### Outils & techniques :
 
@@ -54,7 +54,7 @@ ___
 
 #### Références Artistiques :
 
-- **Argumentation théorique** : Nous vivons dans un flot d'informations et d'images continu qui nous "assomment". Selon Yves Citton notre attention devient la nouvelle ressource, si bien qu'il nous est compliqué de naviguer dans notre environnement numérique. Dans ce contexte, le geste de la cueillette devient un outil de résistance ; il s'oppose à la rapidité du "swipe" et nous invite a repenser nos rapports au web. Chercher, identifier, cueillir, ranger, classer, observer, cet outil transpose la méthodologie de la cueillette pour nous aider à recentrer notre attention là où on le souhaite vraiment. 
+- **Argumentation théorique** : Nous vivons dans un flot d'informations et d'images continu qui nous "assomment". Selon Yves Citton notre attention devient la nouvelle ressource, si bien qu'il nous est compliqué de naviguer dans notre environnement numérique. Dans ce contexte, le geste de la cueillette devient un outil de résistance ; il s'oppose à la rapidité du "swipe" et nous invite a repenser nos rapports au web. Chercher, identifier, cueillir, ranger, classer, observer, cet outil transpose la méthodologie de la cueillette pour nous aider à recentrer notre attention là où on le souhaite vraiment et archiver ce que l'on veut retenir.
 
 - **Références** : 
   - Yves Citton, *Pour une écologie de l'attention*, 2014 
@@ -70,14 +70,13 @@ ____
 - échanges avec Arnaud autour de références (L'Association etc...)
 <img src="/SRC/refs.jpg" height="500">
 - j'ai parlé de Colossal Cave de Ralph Witt à Suyeon par rapport au labyrinthe 
-
-#### Contribution aux ressources
-
-- blablabla
+- Aide à l'accrochage d'Alice et Manon
 
 #### Accrochage de rendu
 
-- blablablabla
+- Pour mon accrochage, j'ai souhaité représenter un bureau, en bazar, plein de vie, pour replacer mon outil dans le contexte dans lequel il sera utilisé. Le tapis au sol permet de former une zone et délimiter l'espace d'accrochage. 
+
+
 
 ____
 
