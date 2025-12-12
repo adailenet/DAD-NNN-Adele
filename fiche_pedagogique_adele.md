@@ -164,9 +164,10 @@ Premiers tests de plug-in, premières pistes de langages et techniques avec chat
 #### Idées : 
 
 <img src="SRC/notes_3.jpg" height="500">
-J'ai exploré et essayé de comprendre les bases d'un plug-in à travers cette template :
+J'ai exploré et essayé de comprendre les bases d'un plug-in à travers cette template :  
 
-[Context-Menu-Sample](https://github.com/RobinMorettiBookmarkText-chromeExtension) Cela sera la base du projet 
+[Context-Menu-Sample](https://github.com/RobinMorettiBookmarkText-chromeExtension) Cela sera la base du projet  
+   
 <img src="SRC/moodboard.png" height="500">
 <img src="SRC/popup.png" height="500">
 <img src="SRC/handmodal.png" height="500">
@@ -177,8 +178,7 @@ J'ai exploré et essayé de comprendre les bases d'un plug-in à travers cette t
 
 - [X] Design du site web panier 
 - [X] écriture du JS pour le panneau de la page web
-  
-pour voir les vidéos : 
+  - voir les videos [ici](https://adailenet.github.io/DAD-NNN-Adele/screenshot-show/)
 
 ### Lundi 01 décembre 2025 & mardi 02 décembre 2025 
   
@@ -226,7 +226,8 @@ function clearBasket() {
 
 ```
 - [X] expérimentations autour du graphisme du plug-in  
--> voir vidéo ici ... 
+  - voir les videos [ici](https://adailenet.github.io/DAD-NNN-Adele/screenshot-show/)
+   
 <img src="SRC/TEST7.png" height="500">  
 <img src="SRC/panier.jpg" height="500">
 <img src="SRC/test$.jpg" height="500">
