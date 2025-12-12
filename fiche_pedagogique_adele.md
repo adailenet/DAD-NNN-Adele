@@ -222,9 +222,15 @@ function clearBasket() {
     location.reload();
 }
 
-
 ```
+- [X] expérimentations autour du graphisme du plug-in  
+-> voir vidéo ici ... 
+<img src="SRC/TEST7.png" height="500">  
+<img src="SRC/panier.jpg" height="500">
 
+- [X] finitions du plug-in pour qu'il soit utilisable !
+- [X] Création d'une notice pour utiliser le plug-in 
+<img src="SRC/NOTICE_DESSIN.jpg" height="500">
 
 
 
