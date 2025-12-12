@@ -76,7 +76,9 @@ ____
 
 - Pour mon accrochage, j'ai souhaité représenter un bureau, en bazar, plein de vie, pour replacer mon outil dans le contexte dans lequel il sera utilisé. Le tapis au sol permet de former une zone et délimiter l'espace d'accrochage. 
 
-
+<img src="/SRC/DSCF3620.JPG" height="500">
+<img src="/SRC/DSCF3664.JPG" height="500">
+<img src="/SRC/DSCF3751.JPG" height="500">
 
 ____
 
