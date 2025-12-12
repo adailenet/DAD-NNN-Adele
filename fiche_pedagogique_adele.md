@@ -69,7 +69,7 @@ ____
 
 - échanges avec Arnaud autour de références (L'Association etc...)
 <img src="/SRC/refs.jpg" height="500">
-- j'ai parlé de Colossal Cave de Ralph Witt à Suyeon par rapport au labyrinthe 
+- j'ai parlé de Colossal Cave de Ralph Witt à Suyeon par rapport au labyrinthe   
 - Aide à l'accrochage d'Alice et Manon
 
 #### Accrochage de rendu
@@ -174,12 +174,56 @@ J'ai exploré et essayé de comprendre les bases d'un plug-in à travers cette t
 #### To-do list : 
 
 - [X] Design du site web panier 
-- [*] écriture du JS pour le panneau de la page web
+- [X] écriture du JS pour le panneau de la page web
+  
+pour voir les vidéos : 
 
-[video_screenshot](SRC/video.mp4)
+#### Lundi 01 décembre 2025 & mardi 02 décembre 2025 
+  
+#### To-do list : 
+  
+- [X] Développement du panier (site web) avec java script (boutons, panneau...)
+
+```
+// _____________________________
+// BUTTONS :D
+// _____________________________
+
+console.log("hello worlds")
+
+let DeleteButton = document.querySelector(".delete"); 
+DeleteButton.addEventListener("click", function() {
+    clearBasket();
+})
+
+let myButton = document.querySelector(".open");
+myButton.addEventListener("click", function() {
+    openPanneau();
+})
+
+let closeButton = document.querySelector(".close");
+closeButton.addEventListener("click", function() {
+    closePanneau();
+})
+
+function openPanneau(){
+    document.querySelector(".panneau").classList.add("active")
+    //console.log("panneau")
+    //console.log("active")
+}
+
+function closePanneau(){
+    document.querySelector(".panneau").classList.remove("active")
+}
+
+function clearBasket() {
+    localStorage.removeItem("basketItems");
+    updateFragmentCounter();
+    location.reload();
+}
 
 
- 
+```
 
 
 
