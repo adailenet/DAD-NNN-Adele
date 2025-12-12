@@ -67,8 +67,10 @@ ____
 
 #### Contribution à un projet d'un autre étudiant
 
+- échanges avec Manon autour de son projet sur le drame des tours jumelles, je lui ai évoqué l'idée de faire plusieurs scènes différentes avec plusieurs pdv
 - échanges avec Arnaud autour de références (L'Association etc...)
 <img src="/SRC/refs.jpg" height="500">
+
 - j'ai parlé de Colossal Cave de Ralph Witt à Suyeon par rapport au labyrinthe   
 - Aide à l'accrochage d'Alice et Manon
 
