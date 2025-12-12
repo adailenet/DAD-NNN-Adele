@@ -233,6 +233,17 @@ function clearBasket() {
 - [X] Création d'une [notice](NOTICE.pdf) pour utiliser le plug-in 
 <img src="SRC/NOTICE_DESSIN.jpg" height="500">
 
+### Vendredi 05 décembre 2025 
+
+- [X] Installation : 
+  - répartition des espaces d'accrochage, j'ai choisi le centre pour que les spectateurs puissent tourner autour du bureau
+  - montage de la table, placement du tapis et des éléments pour la table 
+  - photos de la salle et de l'avancement du montage 
+  - présentation du projet à la classe, démonstration technique du plug-in 
+
+
+fin!! 
+
 
 
 
