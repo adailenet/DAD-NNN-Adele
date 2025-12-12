@@ -178,7 +178,7 @@ J'ai exploré et essayé de comprendre les bases d'un plug-in à travers cette t
   
 pour voir les vidéos : 
 
-#### Lundi 01 décembre 2025 & mardi 02 décembre 2025 
+### Lundi 01 décembre 2025 & mardi 02 décembre 2025 
   
 #### To-do list : 
   
@@ -227,10 +227,12 @@ function clearBasket() {
 -> voir vidéo ici ... 
 <img src="SRC/TEST7.png" height="500">  
 <img src="SRC/panier.jpg" height="500">
+<img src="SRC/test$.jpg" height="500">
 
 - [X] finitions du plug-in pour qu'il soit utilisable !
-- [X] Création d'une notice pour utiliser le plug-in 
+- [X] Création d'une [notice](NOTICE.pdf) pour utiliser le plug-in 
 <img src="SRC/NOTICE_DESSIN.jpg" height="500">
+
 
 
 
